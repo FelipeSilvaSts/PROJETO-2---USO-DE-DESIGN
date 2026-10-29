@@ -1,7 +1,7 @@
 # Conexão Solidária — Plataforma demonstrativa para ONGs
 
 ## Criador
-Lucas Noel Gomes Batista - Engenharia de Software 
+Felipe da Silva Santos - Engenharia de Software 
 
 ## Como executar
 
